@@ -1,3 +1,7 @@
+# Web Crawler
+
+This project was built per the specifications [here](https://drive.google.com/file/d/1gTZ1kM0qd-ymfIBnA2of43k76cyiesIg/view).
+
 # Usage
 
 - Intall [Node.js](https://nodejs.org).
